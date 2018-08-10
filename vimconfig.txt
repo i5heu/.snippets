@@ -1,2 +1,0 @@
-"" MY SNIPPED LIST
-command Pdoc :r $HOME/.snippets/phpDocSkeleton.php
