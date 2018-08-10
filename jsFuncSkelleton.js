@@ -1,5 +1,8 @@
 /**
- * Represents a X
+ * Description
+ *
+ * Summuray
+ *
  * @param {string} N - description.
  * @return {string} N - description
  */
