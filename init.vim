@@ -8,4 +8,5 @@ endfunction
 
 
 command Pdoc call GetSnippet("phpDocSkeleton.php")
-
+command Pfunc call GetSnippet("phpFuncDocSkeleton.php")
+command Jsfunc call GetSnippet("jsFuncSkelleton.js")
