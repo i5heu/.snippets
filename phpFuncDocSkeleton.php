@@ -1,5 +1,5 @@
 /**
- * Summuray
+ * Summary
  *
  * Description
  *
