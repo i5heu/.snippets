@@ -1,8 +1,8 @@
 /**
  * Represents a X
- * @param {string} NAME - description.
- * @return {string} NAME - description
+ * @param {string} N - description.
+ * @return {string} N - description
  */
-function Book(NAME) {
-  return NAME
+function N(N) {
+  return N
 }
