@@ -1,9 +1,9 @@
 /**
-* Summery
-*
-* Description
-*
-* @param Request $request
-*
-* @return Response
-*/
+ * Summuray
+ *
+ * Description
+ *
+ * @param Request $request
+ *
+ * @return Response
+ */
