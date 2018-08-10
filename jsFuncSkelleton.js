@@ -1,7 +1,7 @@
 /**
- * Description
+ * Summary
  *
- * Summuray
+ * Description
  *
  * @param {string} N - description.
  * @return {string} N - description
